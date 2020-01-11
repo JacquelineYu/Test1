@@ -1,2 +1,2 @@
-# Test1
-Dummy project
+# AI for Trading
+Udacity Nano Degree
